@@ -2,7 +2,7 @@ categories:
 - Database
 - Postgresql
 questions:
-group: Login-Defaults
+group: "Login-Defaults"
 - variable: email
   label: PGADMIN_DEFAULT_EMAIL
   required: true
