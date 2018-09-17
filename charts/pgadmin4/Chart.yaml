@@ -2,7 +2,7 @@ apiVersion: v1
 name: pgadmin4
 version: 0.1.0
 appVersion: 3.3
-description: feature rich Open Source administration and development platform for PostgreSQL
+description: pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. This chart is built on the hub.docker.com image dpage/pgadmin4. You can visit http://www.pgadmin.org to know more. The default username to login is admin@localhost. You can change it in your answer during install. The default password is "admin". You can change it in your answer during install. Change the username and password if you don't want to use the defaults. This chart does not expose pgadmin4 outside the cluster. Use the loadbalancing tab to create a ingress to the ClusterIP service created by this chart.
 keywords:
 - pgadmin4
 - postgresql

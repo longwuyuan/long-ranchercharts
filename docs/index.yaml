@@ -3,10 +3,17 @@ entries:
   pgadmin4:
   - apiVersion: v1
     appVersion: "3.3"
-    created: 2018-09-17T21:26:12.242580251+05:30
-    description: feature rich Open Source administration and development platform
-      for PostgreSQL
-    digest: ecdf260e06dad24e04f95236f125102fa0198e0b720d9b793143fafd49987311
+    created: 2018-09-17T22:24:22.931144518+05:30
+    description: pgAdmin is the most popular and feature rich Open Source administration
+      and development platform for PostgreSQL, the most advanced Open Source database
+      in the world. This chart is built on the hub.docker.com image dpage/pgadmin4.
+      You can visit http://www.pgadmin.org to know more. The default username to login
+      is admin@localhost. You can change it in your answer during install. The default
+      password is "admin". You can change it in your answer during install. Change
+      the username and password if you don't want to use the defaults. This chart
+      does not expose pgadmin4 outside the cluster. Use the loadbalancing tab to create
+      a ingress to the ClusterIP service created by this chart.
+    digest: 6fa1b373fa15c73204b9a3b0a9e0ef2d0cfef3f5ff3cc31c0b77ce4dccce2635
     home: https://www.pgadmin.org/
     icon: https://www.pgadmin.org/static/img/screenshot.png
     keywords:
@@ -17,4 +24,4 @@ entries:
     urls:
     - https://longwuyuan.github.io/long-ranchercharts/pgadmin4-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-17T21:26:12.241945765+05:30
+generated: 2018-09-17T22:24:22.93048906+05:30
