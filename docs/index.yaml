@@ -3,10 +3,10 @@ entries:
   pgadmin4:
   - apiVersion: v1
     appVersion: "3.3"
-    created: 2018-09-17T21:04:26.708588962+05:30
+    created: 2018-09-17T21:19:59.227753052+05:30
     description: feature rich Open Source administration and development platform
       for PostgreSQL
-    digest: c02f85f608cc8bdc67ab505df444a9a5bedd7dffa150fb92bbf0132991fffe14
+    digest: 737ca1219f52d47b389ccd7be8dce04e72c1af091798e8cebed5f856894f06a0
     home: https://www.pgadmin.org/
     icon: https://www.pgadmin.org/static/img/screenshot.png
     keywords:
@@ -17,4 +17,4 @@ entries:
     urls:
     - https://longwuyuan.github.io/long-ranchercharts/pgadmin4-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-17T21:04:26.708201113+05:30
+generated: 2018-09-17T21:19:59.226985805+05:30
