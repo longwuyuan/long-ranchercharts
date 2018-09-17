@@ -1,7 +1,7 @@
 name: pgadmin4
 version: 0.1
 appVersion: 3.3
-description: pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. pgAdmin may be used on Linux, Unix, Mac OS X and Windows to manage PostgreSQL 9.2 and above.
+description: feature rich Open Source administration and development platform for PostgreSQL
 home: https://www.pgadmin.org/
 icon: https://www.pgadmin.org/static/img/screenshot.png
 keywords:
