@@ -1,2 +1,2 @@
 # rancher_charts
-K8s Charts for Rancher 2.x
+Some apps, not found in helm repo or rancher catalog,  as K8s Charts but only for Rancher 2.x
