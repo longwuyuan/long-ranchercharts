@@ -1,5 +1,6 @@
+apiVersion: v1
 name: pgadmin4
-version: 0.1
+version: 0.1.0
 appVersion: 3.3
 description: feature rich Open Source administration and development platform for PostgreSQL
 keywords:
