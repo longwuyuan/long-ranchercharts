@@ -1,6 +1,9 @@
 # pgAdmin
 
 pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
+
+https://www.pgadmin.org/static/img/screenshot.png
+
 ## Prerequisites
 
 - Kubernetes 1.6+ with Beta APIs enabled
