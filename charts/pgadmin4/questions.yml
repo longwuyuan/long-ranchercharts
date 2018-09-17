@@ -2,15 +2,13 @@ categories:
 - Database
 - Postgresql
 questions:
-  group: "Login-Defaults"
-  subquestions:
-  - variable: email
-    label: PGADMIN_DEFAULT_EMAIL
-    required: true
-    type: string
-    description: Login with this email address
-  - variable: password
-    label: PGADMIN_DEFAULT_PASSWORD
-    required: true
-    type: password
-    description: Login with this password
+- variable: email
+  label: PGADMIN_DEFAULT_EMAIL
+  required: true
+  type: string
+  description: Login with this email address
+- variable: password
+  label: PGADMIN_DEFAULT_PASSWORD
+  required: true
+  type: password
+  description: Login with this password
