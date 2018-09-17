@@ -2,9 +2,9 @@ name: pgadmin4
 version: 0.1
 appVersion: 3.3
 description: feature rich Open Source administration and development platform for PostgreSQL
-home: https://www.pgadmin.org/
-icon: https://www.pgadmin.org/static/img/screenshot.png
 keywords:
 - pgadmin4
 - postgresql
 - postgres
+home: https://www.pgadmin.org/
+icon: https://www.pgadmin.org/static/img/screenshot.png
