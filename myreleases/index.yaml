@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   pgadmin4:
   - appVersion: "3.3"
-    created: 2018-09-17T17:15:28.302530986+05:30
+    created: 2018-09-17T17:43:51.442741409+05:30
     description: pgAdmin is the most popular and feature rich Open Source administration
       and development platform for PostgreSQL, the most advanced Open Source database
       in the world. pgAdmin may be used on Linux, Unix, Mac OS X and Windows to manage
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://longwuyuan.github.io/long-ranchercharts/pgadmin4-0.1.tgz
     version: "0.1"
-generated: 2018-09-17T17:15:28.302150778+05:30
+generated: 2018-09-17T17:43:51.441597862+05:30
